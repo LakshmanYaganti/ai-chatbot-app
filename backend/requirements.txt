@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb
+pypdf
+sentence-transformers
+python-multipart
+ollama
+tiktoken
+langchain-text-splitters
+pytesseract
+pdf2image
+pillow
+langchain-text-splitters
